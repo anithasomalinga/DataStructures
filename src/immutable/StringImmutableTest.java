@@ -14,6 +14,15 @@ public class StringImmutableTest {
         x = 30;
         y = 30;
         System.out.printf("%s %s %s %s\n", str, builder, x, y);
+
+        String anitha = "anitha";
+        modify(anitha);
+        System.out.println("Anitha -> " + anitha);
+    }
+
+    private static void modify(String anitha) {
+        anitha = "preethi";
+        System.out.println("Anitha -> " + anitha);
     }
 
     private static void modifyString(String s, StringBuilder builder, int x, Integer y) {
