@@ -41,10 +41,7 @@ create table Student_Course (student_id int,
                              foreign key (student_id) references Student,
                              foreign key (course_id) references Course);
 
-insert into Student (student_id, first_name, last_name, email) values (1, 'Anitha', 'Somalinga', 'ani2485@gmail.com');
-insert into Student (student_id, first_name, last_name, email) values (2, 'Madhan', 'Krishnan', 'tkmadhan@gmail.com');
-insert into Student (student_id, first_name, last_name, email) values (3, 'Sathvik', 'Madhan', 'sathviktm@gmail.com');
-insert into Student (student_id, first_name, last_name, email) values (4, 'Vikunth', 'Madhan', 'vikunthtm@gmail.com');
+insert into Student (student_id, first_name, last_name, email) values (1, 'Anitha', 'Somalinga', 'anis@gmail.com');
 select * from Student;
 
 insert into Teacher (teacher_id, first_name, last_name, email) values (101, 'Gill', 'K', 'kgill@gmail.com');
