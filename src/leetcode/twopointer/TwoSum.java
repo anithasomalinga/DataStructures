@@ -23,4 +23,16 @@ public class TwoSum {
         }
         return null;
     }
+
+    public int[] twoSum(int[] array, int target) {
+        Map<Integer, Integer> complimentMap = new HashMap<>();
+        for(int i=0; i< array.length;i++) {
+            if(complimentMap.containsKey(array[i])){
+                return new int[] {complimentMap.get(array[i]), i};
+            } else {
+                complimentMap.put(target-array[i], i);
+            }
+        }
+        return null;
+    }
 }

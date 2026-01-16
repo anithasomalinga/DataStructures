@@ -35,9 +35,9 @@ public class UseCasesMain {
         If a number n has a divisor greater than its square root, it must also have a corresponding divisor smaller than its square root.
         Therefore, checking up to the square root is sufficient.
                 Increment by 2: The loop increments i by 2 (i += 2) because we only need to check odd divisors after handling the case of 2.*/
-        List<Integer> numbers = Arrays.asList(4,6,8,10,11);
+        List<Integer> numbers = Arrays.asList(4,6,8,10,15,32,69,72,81);
         Predicate<Integer> isPrime = UseCasesMain::isPrime;
-        boolean hasPrime = numbers.stream().noneMatch(UseCasesMain::isPrime);
+        boolean hasPrime = numbers.stream().anyMatch(UseCasesMain::isPrime);
         System.out.println("Has Prime ?" + hasPrime);
 
         // 4. Merge two sorted lists into a single sorted list using java streams
@@ -101,7 +101,7 @@ public class UseCasesMain {
         if(n %2 ==0)
             return false;
         for(int i = 3; i * i <=n; i +=2){
-            if(n%3==0) return false;
+            if(n%i==0) return false;
         }
         return true;
     }

@@ -1,0 +1,74 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Health"
+    },
+    {
+      "type": "itemList",
+      "content": [
+        {
+          "type": "text",
+          "text": "Food"
+        },
+        {
+          "type": "itemList",
+          "content": [
+            {
+              "type": "text",
+              "text": "Healthy"
+            },
+            {
+              "type": "text",
+              "text": "Unhealthy"
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Veggies"
+                },
+                {
+                  "type": "itemList",
+                  "content": [
+                    {
+                      "type": "bulletList",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pepper"
+                        },
+                        {
+                          "type": "itemList",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Green"
+                            },
+                            {
+                              "type": "text",
+                              "text": "Red"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "Potato"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Lettuce"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

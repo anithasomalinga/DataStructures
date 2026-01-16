@@ -26,6 +26,7 @@ public class Practice1 {
         // Consumer<T> - accept(T t)
         Consumer<String> consumer = System.out::println;
         consumer.accept("testing");
+        stringList.forEach(consumer);
 
         // Predicate<T> - test(T t)
         Predicate<Integer> predicate = n -> n % 2 == 0;

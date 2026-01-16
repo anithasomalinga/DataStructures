@@ -9,7 +9,7 @@ import java.util.List;
 // Space complexity o(n)
 public class MergeSort {
     public static void main(String[] args) {
-        final int[] inputArray = {13, 46, 24, 52, 20, 9};
+        final int[] inputArray = {5,4,3,2,1,0};
         mergeSort(inputArray, 0, inputArray.length - 1);
         System.out.println(Arrays.toString(inputArray));
     }

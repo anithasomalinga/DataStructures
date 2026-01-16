@@ -1,15 +1,16 @@
 package leetcode.twopointer;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class TwoSum1 {
+    {
+        System.out.println("test");
+    }
     public static void main(String[] args) {
+        TwoSum1 obj = new TwoSum1();
         int[] data = {7,6,8,2}; // sorted - 9, 8, 6, 2
         int target = 8;
         System.out.println(Arrays.toString(getTwoSumIndeces(data,target)));
-
     }
 
     private static int[] getTwoSumIndeces(int[] data, int target) {
@@ -26,3 +27,4 @@ public class TwoSum1 {
         return null;
     }
 }
+

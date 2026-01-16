@@ -31,8 +31,6 @@ public class Anagram {
         for (int i = 0; i < string1.length(); i++) {
             count[string1.charAt(i)]++;
             count[string2.charAt(i)]--;
-            System.out.println(string1.charAt(i));
-            count['g']--;
         }
         for (int i = 0; i < CHARACTER_RANGE; i++) {
             if (count[i] != 0) {

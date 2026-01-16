@@ -1,0 +1,96 @@
+{
+  "content": [
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "itemList",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Health",
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "itemList",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                { "type": "text", "text": "Healthy", "content": [] }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                { "type": "text", "text": "Unhealthy", "content": [] }
+              ]
+            }
+          ]
+        },
+
+
+      ]
+    },
+        {
+          "type": "itemList",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                { "type": "text", "text": "Veggies", "content": [] }
+              ]
+            },
+            {
+              "type": "itemList",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    { "type": "text", "text": "Pepper", "content": [] }
+                  ]
+                },
+                {
+                  "type": "itemList",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        { "type": "text", "text": "Green", "content": [] },
+                        { "type": "text", "text": "Red", "content": [] }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    { "type": "text", "text": "Potato", "content": [] }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    { "type": "text", "text": "Lettuce", "content": [] }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
