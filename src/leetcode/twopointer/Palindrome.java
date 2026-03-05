@@ -13,7 +13,8 @@ public class Palindrome {
 
     private static boolean isPalindrome(String str) {
         int j = str.length() - 1;
-        for (int i = 0; i < str.length(); i++) {
+        int i = 0;
+//        for (int i = 0; i < str.length(); i++) {
             while (i < j) {
                 if (str.charAt(i) == str.charAt(j)) {
                     i++;
@@ -21,7 +22,7 @@ public class Palindrome {
                 } else
                     return false;
             }
-        }
+//        }
         return true;
     }
 
