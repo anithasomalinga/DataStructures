@@ -21,6 +21,8 @@ public class RomanNumerals {
     }
 
     private static int romanToInteger(String s) {
+        // I II III IV V VI VII VIII IX X
+        // XI XII XIII XIV XV XVI XVII XIX XX
         Map<Character, Integer> romanMap = new HashMap<>();
         romanMap.put('I', 1);
         romanMap.put('V', 5);

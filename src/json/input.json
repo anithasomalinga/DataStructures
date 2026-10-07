@@ -1,0 +1,598 @@
+[
+  {
+    "SensorId": " sn-0003 ",
+    "timestamp": 1748907385527,
+    "temperature": " -29.4 C"
+  },
+  {
+    "timestamp": " 1748881688404 ",
+    "temperature": 25.0
+  },
+  {
+    "SensorId": "SN-0008",
+    "timestamp  ": " 1748872110225 ",
+    "temperatureC": 43.9
+  },
+  {
+    "SensorId": "SN-0001",
+    " timestamp": 1748892842085,
+    "temperature": 20.3
+  },
+  {
+    "sensor_id": " SN-0001 ",
+    "timeStamp": 1748862317271,
+    "temp": -52.9
+  },
+  {
+    "sensorID": " SN-0002 ",
+    " timestamp": 1748877543142,
+    "temp": 1.8,
+    "battery": 16
+  },
+  {
+    "sensorId": "SN-0010",
+    "time": "1748833261942",
+    "temperature": -20.1
+  },
+  {
+    "sensorId": "",
+    "time": 1748857949767,
+    "temperature_c": 38.1
+  },
+  {
+    "sensor_id": "SN-0003",
+    " timestamp": 1748906866359,
+    "temperatureC  ": " -32.5 C"
+  },
+  {
+    "SensorId": "SN-0006",
+    "timestamp": "1748822950917",
+    "temperature": 51.8,
+    "battery": 98
+  },
+  {
+    "sensorID": "SN-0007",
+    "timestamp": 1748833158992,
+    "tempC": -37.8,
+    "location": null
+  },
+  {
+    "SensorId": "SN-0010",
+    "time": 1748889796089,
+    "temp": -37.1,
+    " note": null
+  },
+  {
+    "SensorId": "SN-0009",
+    "timestamp": 1748892624479,
+    "temp": "-42.2"
+  },
+  {
+    " sensorId": "Sensor-0009",
+    "timeStamp": 1748846497968,
+    "tempC": "1.7"
+  },
+  {
+    "sensorId": "SN-0005",
+    "timestamp": 1748841485373,
+    " temperatureC": -24.7,
+    "battery": true
+  },
+  {
+    "id": "SN-0009",
+    " timestamp": 1748871750882,
+    "temperatureC": -0.4
+  },
+  {
+    " sensorId": " SN-0009 ",
+    " timestamp": 1748906417588,
+    "tempC": "-6.0deg"
+  },
+  {
+    "sensorID": "sn-0006",
+    " timestamp": 1748827549839,
+    "temp": "-12.7\u00b0C",
+    " note": true
+  },
+  {
+    " sensorId": "SN-0008",
+    "timeStamp": 1748823616245,
+    "temp": 56.1
+  },
+  {
+    "sensorID": "SN-0007",
+    "timestamp  ": 1748858887462,
+    "temperatureC": -31.0,
+    "battery": true
+  },
+  {
+    "SensorId": "Sensor-0002",
+    " timestamp": "1748899808257",
+    "temp": 13.0
+  },
+  {
+    "id": "SN-0005",
+    "timestamp  ": 1748906135867,
+    "temperatureC": 58.6
+  },
+  {
+    "id": "SN-0003",
+    "ts": 1748881895413,
+    "temperature": -57.5
+  },
+  {
+    " sensorId": "SN-0006",
+    "timestamp": 1748885229481,
+    "temperatureC": "31.6"
+  },
+  {
+    "sensor_id": "sn-0002",
+    " timestamp": 1748879315908,
+    "temperatureC  ": "-12.3"
+  },
+  {
+    "sensor_id": "SN-0004",
+    " timestamp": "1748859710065",
+    "temp": 1.3
+  },
+  {
+    " sensorId": " SN-0010 ",
+    "timeStamp": 1748879365737,
+    "tempC": 35.4
+  },
+  {
+    "SensorId": "SN-0005",
+    " timestamp": "1748824700095",
+    " temperatureC": -25.7
+  },
+  {
+    "sensorID": " SN-0006 ",
+    "ts": 1748881343356,
+    "temperature_c": " -34.9 ",
+    "extraField": "value4"
+  },
+  {
+    "sensorId  ": "SN-0006",
+    "timeStamp": 1748865642126,
+    "temperatureC  ": "29.0deg"
+  },
+  {
+    "sensorID": "SN-0006",
+    " timestamp": 1748848643225,
+    "tempC": 19.5
+  },
+  {
+    "id": "SN-0004",
+    "timestamp  ": " 1748856833852 ",
+    "temperatureC  ": "-28.0",
+    "battery": true
+  },
+  {
+    " sensorId": " SN-0005 ",
+    " timestamp": 1748856864990,
+    "tempC": " -32.9 ",
+    " note": 55
+  },
+  {
+    " sensorId": "sn-0008",
+    "timestamp  ": 1748883988968,
+    "temperature": -3.0
+  },
+  {
+    "sensor_id": "SN-0002",
+    " timestamp": "1748829995305",
+    "temperature_c": -10.2
+  },
+  {
+    "id": "SN-0010",
+    "ts": " 1748901235118 ",
+    "temperatureC": 24.6
+  },
+  {
+    " sensorId": "SN-0002",
+    "timestamp": 1749285369168,
+    "temperature_c": 49.0,
+    " note": true
+  },
+  {
+    "sensor_id": "sn-0005",
+    "temperature_c": "-10.8"
+  },
+  {
+    "sensorId  ": "SN-0007",
+    "temperature": -4.3,
+    "humidity": null
+  },
+  {
+    "sensorId  ": "sn-0004",
+    "time": 1748892047500,
+    "temperatureC": -21.6
+  },
+  {
+    "SensorId": " sn-0005 ",
+    "ts": 1748895151162,
+    "temperature_c": " 34.6 "
+  },
+  {
+    "id": "SN-0007",
+    "timestamp": 1749298385561,
+    "tempC": null,
+    "location": "value5"
+  },
+  {
+    "sensor_id": "SN-0004",
+    "timestamp": 1748831783978,
+    "temperatureC": 4.2
+  },
+  {
+    "SensorId": "SN-0008",
+    "time": 1748884599621,
+    " temperatureC": 45.5
+  },
+  {
+    "sensorId  ": "SN-0008",
+    "timestamp  ": "1748884615722",
+    " temperatureC": "7.6"
+  },
+  {
+    "sensorId  ": "SN-0010",
+    "timeStamp": 1748879376603,
+    "tempC": 32.4
+  },
+  {
+    "id": "sn-0005",
+    "time": 1748904842899,
+    " temperatureC": 1.1
+  },
+  {
+    " sensorId": " SN-0002 ",
+    " timestamp": 1748857236855,
+    "temperature_c": "17.7"
+  },
+  {
+    "id": " SN-0004 ",
+    "timestamp  ": "1748846260271",
+    "temperatureC": "-11.2"
+  },
+  {
+    " sensorId": " SN-0009 ",
+    "timestamp  ": "1749333441827",
+    "tempC": 6.3
+  },
+  {
+    "sensor_id": " sn-0009 ",
+    "timestamp": " 1748860575777 ",
+    "temp": 57.5,
+    " note": true
+  },
+  {
+    "sensor_id": "SN-0002",
+    "ts": 1748865012469,
+    "tempC": 54.4
+  },
+  {
+    "id": "SN-0009",
+    " timestamp": "1748855337498"
+  },
+  {
+    "sensorId": "sn-0009",
+    "time": 1748902793060,
+    "temperature": null
+  },
+  {
+    "SensorId": "SN-0005",
+    "time": "1748908638227",
+    "temperature": 39.7
+  },
+  {
+    "temp": " 50.4 "
+  },
+  {
+    "id": "",
+    "timestamp  ": 1748831900490,
+    " temperatureC": " 58.3 "
+  },
+  {
+    "id": "SN-0001",
+    "time": 1748901795402,
+    "temperature_c": "55.0"
+  },
+  {
+    "sensorId": "SN-0004",
+    "timestamp": 1748843089032,
+    "temp": 40.1
+  },
+  {
+    " sensorId": "SN-0008",
+    "timestamp  ": 1748860563818,
+    " temperatureC": -18.2
+  },
+  {
+    "id": "SN-0010",
+    " timestamp": 1748877251025,
+    "temperatureC": -20.5
+  },
+  {
+    "sensorID": " SN-0003 ",
+    "timeStamp": 1748824320186,
+    "tempC": "6.2"
+  },
+  {
+    "SensorId": "SN-0003",
+    "time": 1748824959100,
+    "temp": "-34.0"
+  },
+  {
+    "sensor_id": "SN-0009",
+    "timestamp  ": 1748886364728,
+    " temperatureC": "51.1"
+  },
+  {
+    "sensor_id": "sn-0004",
+    "time": 1748896959024,
+    "temperatureC": 1.9,
+    "humidity": 100
+  },
+  {
+    "id": " Sensor-0010 ",
+    "ts": "-1",
+    "temperatureC  ": "-4.7",
+    " note": true
+  },
+  {
+    "sensor_id": "sn-0005",
+    " timestamp": 1748898684686,
+    "temperatureC  ": -12.5
+  },
+  {
+    "SensorId": "Sensor-0002",
+    " timestamp": 1748888243910,
+    "temperatureC  ": " -28.1 "
+  },
+  {
+    "sensorId  ": "SN-0009",
+    "timestamp  ": 1749268374204,
+    "temperature": -5.5
+  },
+  {
+    " sensorId": "sn-0003",
+    "timestamp  ": 1748895050226,
+    "temperature": -36.7
+  },
+  {
+    "sensorId": " SN-0009 ",
+    "time": 1748881789429,
+    "temperatureC  ": "31.2\u00b0C"
+  },
+  {
+    "sensorId": "sn-0005",
+    "timeStamp": 1748847529139,
+    "temperatureC  ": 15.6
+  },
+  {
+    "sensorId": " sn-0005 ",
+    "time": 1748825549117,
+    "temp": 44.0
+  },
+  {
+    "sensorID": 8687,
+    "ts": 1748827915305,
+    "temperatureC": 0.5
+  },
+  {
+    "id": "SN-0001",
+    "timeStamp": 1748868882467,
+    "temperatureC  ": " -18.6 \u00b0C"
+  },
+  {
+    " sensorId": "SN-0009",
+    "time": 1748872581754,
+    "temperature_c": 25.8
+  },
+  {
+    "id": "sn-0001",
+    "timeStamp": " 1748860889765 ",
+    "temperatureC": -5.6
+  },
+  {
+    "sensorID": "sn-0003",
+    "time": 1749303249443,
+    "tempC": 22.5
+  },
+  {
+    "sensorId  ": "SN-0003",
+    "time": 1748894497183,
+    "temperatureC": -13.3
+  },
+  {
+    "sensorID": "SN-0010",
+    "timeStamp": "1748861132908"
+  },
+  {
+    "SensorId": "Sensor-0004",
+    "timestamp": 1748830684729,
+    "temperatureC": " 57.6 "
+  },
+  {
+    "sensorId": "sn-0009",
+    "timestamp  ": "1748857480617",
+    "temperatureC": -1.4
+  },
+  {
+    "SensorId": "SN-0006",
+    "timestamp": "1748907403505",
+    "temperatureC  ": "-1.3"
+  },
+  {
+    "sensorId  ": "SN-0008",
+    "ts": 1748862346227
+  },
+  {
+    "sensorId  ": "SN-0007",
+    "temperatureC": "-2.7deg"
+  },
+  {
+    "SensorId": "SN-0008",
+    "timeStamp": 1748860422632,
+    "tempC": -55.6
+  },
+  {
+    "SensorId": " Sensor-0007 ",
+    "time": 1748880844915,
+    "temp": "-19.3"
+  },
+  {
+    "sensorId": "Sensor-0001",
+    "ts": 1748897036562,
+    "temperatureC  ": -8.6
+  },
+  {
+    "sensor_id": " SN-0008 ",
+    "timestamp  ": 1749308964255,
+    " temperatureC": "57.4deg"
+  },
+  {
+    "sensorId  ": "SN-0005",
+    "timestamp  ": "1748829489607",
+    "temp": -55.8
+  },
+  {
+    "sensorID": "SN-0002",
+    "time": 1748824271719,
+    "temperatureC": "-3.0"
+  },
+  {
+    "sensor_id": "SN-0007",
+    "ts": 1748881800652
+  },
+  {
+    "sensorId  ": "sn-0002",
+    "timeStamp": 1748826888253,
+    "temperatureC": "-35.3",
+    "extraField": false
+  },
+  {
+    "sensorId": "SN-0006",
+    "timestamp": "1748838264839",
+    "temp": -2.1
+  },
+  {
+    "SensorId": " SN-0004 ",
+    "time": 1748867156076,
+    "temperature_c": "-43.1"
+  },
+  {
+    "sensorId": "SN-0008",
+    " timestamp": " 1748890059082 ",
+    "tempC": "13.5"
+  },
+  {
+    "sensorID": "SN-0007",
+    "ts": 1748874932567,
+    "temperatureC  ": 31.4
+  },
+  {
+    " sensorId": "sn-0009",
+    "timeStamp": 1748832376898,
+    "tempC": 39.8
+  },
+  {
+    "SensorId": 7189,
+    "ts": 1748854818702,
+    "temperatureC": " -54.3 "
+  },
+  {
+    "sensor_id": "sn-0010",
+    "timeStamp": 1748896333227,
+    " temperatureC": " 5.1 "
+  },
+  {
+    " sensorId": " SN-0008 ",
+    "timeStamp": "1748844957963",
+    "temperature": 33.5
+  },
+  {
+    "sensor_id": " SN-0005 ",
+    "timestamp  ": 1748892786668,
+    "temperature_c": "30.6\u00b0C"
+  },
+  {
+    "sensor_id": "SN-0006",
+    "ts": 1748862117278,
+    "temperatureC": "46.7"
+  },
+  {
+    "sensorID": "SN-0004",
+    "timeStamp": "1748902676240",
+    "temperatureC  ": "-28.2"
+  },
+  {
+    "timestamp  ": 1748893710199,
+    " temperatureC": -32.0
+  },
+  {
+    "sensor_id": "SN-0007",
+    " timestamp": "1748834310554",
+    "temp": -11.1,
+    "battery": false
+  },
+  {
+    "sensorId  ": "sn-0008",
+    "time": "1748834028963",
+    " temperatureC": " -42.2 "
+  },
+  {
+    "sensorID": "sn-0010",
+    "ts": 1748886697621,
+    "tempC": -14.3
+  },
+  {
+    "sensorId  ": "sn-0008",
+    "ts": "1748824447141",
+    "temp": -23.6,
+    "extraField": "value5"
+  },
+  {
+    "SensorId": "SN-0006",
+    "ts": 1748898542393,
+    "tempC": " 1.0 "
+  },
+  {
+    "sensorID": " SN-0005 ",
+    "timestamp  ": "1748869692287",
+    "temperature": " 39.1 "
+  },
+  {
+    "SensorId": " SN-0002 ",
+    "ts": "1748859527871",
+    "tempC": "55.5",
+    "battery": false
+  },
+  {
+    "sensorId  ": "",
+    "ts": "1748853192599",
+    " temperatureC": 25.7,
+    "extraField": null
+  },
+  {
+    "sensor_id": "SN-0004",
+    "timeStamp": " 1748841064606 ",
+    " temperatureC": "8.9\u00b0C"
+  },
+  {
+    "sensorId": "Sensor-0010",
+    "timestamp  ": 1748887560575,
+    "temperature": -6.2,
+    "location": null
+  },
+  {
+    "id": " SN-0003 ",
+    "ts": "1748895651809",
+    "temp": "53.8"
+  },
+  {
+    " sensorId": "SN-0008",
+    "time": 1748876678392,
+    "temperatureC  ": -33.2
+  }
+]

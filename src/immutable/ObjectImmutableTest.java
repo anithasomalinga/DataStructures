@@ -9,11 +9,11 @@ public class ObjectImmutableTest {
     }
 
     private static void modifyPerson(Person person) {
-//        person.setName("Madhan");
-//        person.setAge(47);
-//        person.setCity("Delta");
-//        person.name = "nn";
-//        person = new Person("Madhan", 47, "Delta");
+        person.setName("Madhan");
+        person.setAge(47);
+        person.setCity("Delta");
+        person.name = "nn";
+        person = new Person("Madhan", 47, "Delta");
         System.out.printf("Person name: %s age: %s, city: %s%n", person.getName(), person.getAge(), person.getCity());
     }
 }

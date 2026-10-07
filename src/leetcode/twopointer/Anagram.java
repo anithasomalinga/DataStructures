@@ -10,7 +10,7 @@ import java.util.stream.IntStream;
 // Not 2 pointer
 public class Anagram {
     public static void main(String[] args) {
-        boolean result = isAnagramMapCharCount("greata", "trgea");
+        boolean result = isAnagram3Apr2026("race", "care");
         System.out.println(result ? "Is anagram" : "Not an anagram");
     }
 
@@ -109,5 +109,19 @@ public class Anagram {
             return countMap.get(c) >=0;
         });
         return valid;
+    }
+
+    private static boolean isAnagram3Apr2026(String one, String two) {
+        if(one.length() != two.length()) return false;
+        if(one.equals(two)) return true;
+        int[] chars = new int[256];
+        for(int i = 0; i < one.length(); i++) {
+            chars[one.charAt(i)]++;
+            chars[two.charAt(i)]--;
+        }
+        for(int c : chars) {
+            if(c > 0) return false;
+        }
+        return true;
     }
 }
